@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Game: TD Rush"
+date: 2017-12-23
+author: XW
+catalog: true
+tags:
+  - game
+---
+
+TD rush is a single player rhythm game on PC(Windows). In the game, players need to press correct button accroding to the signals shown to get high scores. The intention of making this game was my TD Line experience. TD Line is a physical exercise facility in my university. Students need to jump, climb and run to pass it. Their movements was quite rhythmical, so I made it into a game.
+
+<div class="post-image-wrapper">
+  <div>
+    <img src="{{site.url}}/assets/CompressedImages/TDRush-gameScene.png" class="post-image" />
+  </div>
+  <div>Game Scene</div>
+</div>
+<div class="post-image-wrapper">
+  <div>
+    <img src="{{site.url}}/assets/CompressedImages/TDRush-facility.png" class="post-image" />
+  </div>
+  <div>TD Line in real world</div>
+</div>
