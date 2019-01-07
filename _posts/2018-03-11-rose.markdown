@@ -10,10 +10,10 @@ tags:
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/blender-rose.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/blender-rose.png" class="post-image" />
   </div>
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/blender-rose2.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/blender-rose2.png" class="post-image" />
   </div>
   <div>Rose, using blender</div>
 </div>

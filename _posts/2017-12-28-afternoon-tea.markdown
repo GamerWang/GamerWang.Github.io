@@ -10,7 +10,7 @@ tags:
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/blender-afternoontea.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/blender-afternoontea.png" class="post-image" />
   </div>
   <div>Afternoon Tea, using blender</div>
 </div>

@@ -12,13 +12,13 @@ TD rush is a single player rhythm game on PC(Windows). In the game, players need
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/TDRush-gameScene.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/TDRush-gameScene.png" class="post-image" />
   </div>
   <div>Game Scene</div>
 </div>
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/TDRush-facility.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/TDRush-facility.png" class="post-image" />
   </div>
   <div>TD Line in real world</div>
 </div>

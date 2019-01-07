@@ -10,7 +10,7 @@ tags:
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/blender-masterSword.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/blender-masterSword.png" class="post-image" />
   </div>
   <div>Master Sword, using blender</div>
 </div>

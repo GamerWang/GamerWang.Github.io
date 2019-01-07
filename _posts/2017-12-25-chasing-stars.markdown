@@ -12,10 +12,10 @@ This is an action game on PC(Windows) and Web(HTML5). This game is about an ange
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/chasingstars-gameScene1.PNG" class="post-image" />
+    <img src="{{site.url}}/img/pictures/chasingstars-gameScene1.PNG" class="post-image" />
   </div>
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/chasingstars-gameScene2.PNG" class="post-image" />
+    <img src="{{site.url}}/img/pictures/chasingstars-gameScene2.PNG" class="post-image" />
   </div>
   <div>game plays</div>
 </div>

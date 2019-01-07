@@ -12,7 +12,7 @@ wizard saga is a 2.5D rouge-like adventure game. Player controls a little wizard
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/wizardSaga-post.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/wizardSaga-post.png" class="post-image" />
   </div>
   <div>poster of this game</div>
 </div>
@@ -21,7 +21,7 @@ My teammates and I like adventure games, and we found that a lot of these games 
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/team.jpg" class="post-image" />
+    <img src="{{site.url}}/img/pictures/team.jpg" class="post-image" />
   </div>
   <div>our team, left is me</div>
 </div>
@@ -30,10 +30,10 @@ We decided on the major process of this game: player need to release the magic t
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/prototype.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/prototype.png" class="post-image" />
   </div>
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/prototype2.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/prototype2.png" class="post-image" />
   </div>
   <div>the prototype of this game</div>
 </div>
@@ -42,9 +42,9 @@ We made a detaile project design then, and determined on the major game function
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/recent.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/recent.png" class="post-image" />
   </div>
-  <div>screen shot of recent version<a href="{{site.url}}/assets/WizardSaga_Video.mp4">(link to video)</a></div>
+  <div>screen shot of recent version</div>
 </div>
 
 This is my first team work based game development project working with people who don't know the knowledge of programming. This experience made me realize the difference between game development and software development, as well as helped me to form a feasible set of game development methods. Furthermore, I learned what need to consider under the pressure of budgets. Last but not least, I greatly improved my programming skills trying to meet the games's new requrements.

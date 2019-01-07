@@ -13,7 +13,7 @@ I took this game’s inspiration from Shadowmatic, which is a puzzle game based 
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/ShadowMatic.jpg" class="post-image" />
+    <img src="{{site.url}}/img/pictures/ShadowMatic.jpg" class="post-image" />
   </div>
   <div>Shadowmatic</div>
 </div>
@@ -23,7 +23,7 @@ The most important function of this game is to let the camera rotate around a ce
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/constellation-sketch.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/constellation-sketch.png" class="post-image" />
   </div>
   <div>Design of Constellation Puzzles</div>
 </div>
@@ -33,7 +33,7 @@ After this, I polished the game’s visual and sound effects. I customized the s
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/constellation-develop.png" class="post-image" />
+    <img src="{{site.url}}/img/pictures/constellation-develop.png" class="post-image" />
   </div>
   <div>Development Scene</div>
 </div>
@@ -45,10 +45,10 @@ I have learned how to develop a game based on gameplay, including how to quickly
 
 <div class="post-image-wrapper">
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/constellation-gamescene1.PNG" class="post-image" />
+    <img src="{{site.url}}/img/pictures/constellation-gamescene1.PNG" class="post-image" />
   </div>
   <div>
-    <img src="{{site.url}}/assets/CompressedImages/constellation-gamescene2.PNG" class="post-image" />
+    <img src="{{site.url}}/img/pictures/constellation-gamescene2.PNG" class="post-image" />
   </div>
   <div>Game plays</div>
 </div>
