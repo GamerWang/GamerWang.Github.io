@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: GamerWang@outlook.com
 description: "Blog of a technical artist"
 keyword: "XW, XW Blog, 王希鹏的博客, XipengWang, 王希鹏, TechArt"
-url: "http://gamerwang.github.io"          # your host, for absolute URL
+url: "http://gamerwang.github.io/page.xw"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/GamerWang/GamerWang.github.io.git" # you code repository
 
