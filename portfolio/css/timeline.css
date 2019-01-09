@@ -208,6 +208,24 @@ body, html {
 	background-size: 22px;
 }
 
+.i-maya:before{
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-maya.jpg") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+.i-unreal:before{
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/logo-ue.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
 /******* Hux Branch *****/
 
 /* navbar - dark mode */
