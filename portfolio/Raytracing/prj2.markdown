@@ -19,7 +19,26 @@ tags:
     <img src="{{site.url}}/portfolio/Raytracing/prj2Z.png" class="post-image" />
 </div>
 
-This is my current output. 
+<div>
+This is my current output, the position of the specular light seems a little bit lower than the standard output. 
+</div>
+
+<div>
+Here are the bug images I got throughout the implementation.
+</div>
+
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj2_BUG1_WrongColor.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj2_BUG2_WrongNormal.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj2_BUG3_WrongColor2.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj2_BUG4_WrongLight.png" class="post-image" />
+</div>
 
 <div>Render Time: 0.09s (Single Thread)</div>
 <div>System Type: 64-bit OS, x64-based processor</div>
