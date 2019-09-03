@@ -24,7 +24,7 @@ This is my current output, the position of the specular light seems a little bit
 </div>
 
 <div>
-Here are the bug images I got throughout the implementation.
+Here are the bug images I got throughout the implementation. I have figured out causes for most of them.
 </div>
 
 <div>
