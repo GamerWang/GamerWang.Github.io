@@ -16,7 +16,7 @@ tags:
 </div>
 
 <div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj2z.png" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj2Z.png" class="post-image" />
 </div>
 
 This is my current output. 
