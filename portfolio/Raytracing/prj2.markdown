@@ -12,11 +12,11 @@ tags:
 
 
 <div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj2.PNG" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj2.png" class="post-image" />
 </div>
 
 <div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj2z.PNG" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj2z.png" class="post-image" />
 </div>
 
 This is my current output. 
