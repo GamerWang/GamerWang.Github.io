@@ -30,3 +30,6 @@ Here are the bug images I got throughout the implementation.
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj4_bug3.png" class="post-image" />
 </div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj4_bug4.png" class="post-image" />
+</div>

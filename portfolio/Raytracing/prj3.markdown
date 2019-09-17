@@ -1,5 +1,4 @@
 ---
-title: Raytracing
 layout: post
 permalink: /portfolio/Raytracing/prj3.html
 date: 2019-09-08
