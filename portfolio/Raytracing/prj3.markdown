@@ -2,7 +2,7 @@
 title: Raytracing
 layout: post
 permalink: /portfolio/Raytracing/prj3.html
-date: 2019-09-02
+date: 2019-09-08
 author: XW
 catalog: true
 tags:

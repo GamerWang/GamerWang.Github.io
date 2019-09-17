@@ -1,0 +1,32 @@
+---
+title: Raytracing
+layout: post
+permalink: /portfolio/Raytracing/prj4.html
+date: 2019-09-17
+author: XW
+catalog: true
+tags:
+  - Graphics
+  - Raytracing
+---
+
+<div>System Type: 64-bit OS, x64-based processor</div>
+<div>Installed RAM: 8.0 GB(7.89 GB usable)</div>
+<div>Processor: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60 GHz</div>
+<div>Bounce Count: 5</div>
+<div>Render Time: 0.57s (Single Thread)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj4.png" class="post-image" />
+</div>
+Here are the bug images I got throughout the implementation.
+</div>
+
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj4_bug1.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj4_bug2.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj4_bug3.png" class="post-image" />
+</div>
