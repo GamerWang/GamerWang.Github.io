@@ -10,28 +10,15 @@ tags:
 ---
 
 <div>System Type: 64-bit OS, x64-based processor</div>
-<div>Installed RAM: 8.0 GB(7.89 GB usable)</div>
-<div>Processor: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60 GHz</div>
+<div>Installed RAM: 32.0 GB(31.9 GB usable)</div>
+<div>Processor: Intel(R) Core(TM) i7-9700K CPU @ 3.60 GHz</div>
 <div>Bounce Count: 5</div>
-<div>Render Time: 10.57s (Single Thread)</div>
+<div>Render Time: 53.69s (16 thread using OpenMP)</div>
 <div>
-    <img src="{{site.url}}/portfolio/Raytracing/test5_bug5.png" class="post-image" />
-</div>
-Currently still facing the face missing bug as above
-<div>
-    <img src="{{site.url}}/portfolio/Raytracing/test5Z_bug4.png" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj5.png" class="post-image" />
 </div>
 <div>
-    <img src="{{site.url}}/portfolio/Raytracing/test5_bug6.png" class="post-image" />
-</div>
-<div>
-    <img src="{{site.url}}/portfolio/Raytracing/test5Z_bug5.png" class="post-image" />
-</div>
-<div>
-    <img src="{{site.url}}/portfolio/Raytracing/test5_bug7.png" class="post-image" />
-</div>
-<div>
-    <img src="{{site.url}}/portfolio/Raytracing/test5Z_bug7.png" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj5Z.png" class="post-image" />
 </div>
 Below are solved bugs
 <div>
@@ -42,4 +29,7 @@ Below are solved bugs
 </div>
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/test5_bug3.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test5_bug5.png" class="post-image" />
 </div>
