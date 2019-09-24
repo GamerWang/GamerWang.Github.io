@@ -27,6 +27,12 @@ Currently still facing the face missing bug as above
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/test5Z_bug5.png" class="post-image" />
 </div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test5_bug7.png" class="post-image" />
+</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test5Z_bug7.png" class="post-image" />
+</div>
 Below are solved bugs
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/test5_bug1.png" class="post-image" />
