@@ -14,10 +14,10 @@ tags:
 <div>Processor: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60 GHz</div>
 <div>Bounce Count: 5</div>
 <div>Rendering high-poly teapot:</div>
-<div>Render Time with BVH: 0.4195s (16 thread using OpenMP)</div>
+<div>Render Time with BVH: 0.3096s (16 thread using OpenMP)</div>
 <div>Render Time without BVH: 132.89s (16 thread using OpenMP)</div>
 <div>Rendering low-poly teapot:</div>
-<div>Render Time with BVH: 0.372s (16 thread using OpenMP)</div>
+<div>Render Time with BVH: 0.2675s (16 thread using OpenMP)</div>
 <div>Render Time without BVH: 5.962s (16 thread using OpenMP)</div>
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj6.png" class="post-image" />
