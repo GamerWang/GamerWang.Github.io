@@ -13,6 +13,11 @@ tags:
 <div>Installed RAM: 32.0 GB(31.9 GB usable)</div>
 <div>Processor: Intel(R) Core(TM) i7-9700K CPU @ 3.60 GHz</div>
 <div>Bounce Count: 5</div>
+<div>Ray differential through sending 2 real rays</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj7_sending_real_rays.png" class="post-image" />
+<div>
+<div>Without ray differential</div>
 <div>Render Time: 127ms (16 thread using OpenMP)</div>
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj7.png" class="post-image" />
