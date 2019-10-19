@@ -13,6 +13,11 @@ tags:
 <div>Installed RAM: 32.0 GB(31.9 GB usable)</div>
 <div>Processor: Intel(R) Core(TM) i7-9700K CPU @ 3.60 GHz</div>
 <div>Bounce Count: 5</div>
+<div></div>
+<div>Ray differential by differentiating the original ray</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj7_real_differentiating_only_plane.png" class="post-image" />
+<div>
 <div>Ray differential through sending 2 real rays</div>
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj7_sending_real_rays.png" class="post-image" />
