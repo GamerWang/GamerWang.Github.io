@@ -14,7 +14,7 @@ tags:
 <div>Processor: Intel(R) Core(TM) i7-9700K CPU @ 3.60 GHz</div>
 <div>Bounce Count: 5</div>
 <div></div>
-<div>Ray differential by differentiating the original ray</div>
+<div>Ray differential by differentiating the original ray(only on the plane)</div>
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj7_real_differentiating_only_plane.png" class="post-image" />
 <div>
