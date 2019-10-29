@@ -1,0 +1,24 @@
+---
+layout: post
+permalink: /portfolio/Raytracing/prj9.html
+date: 2019-10-29
+author: XW
+catalog: true
+tags:
+  - Graphics
+  - Raytracing
+---
+
+<div>System Type: 64-bit OS, x64-based processor</div>
+<div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
+<div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
+<div>Bounce Count: 5</div>
+<div>Halton Sampling - 32 samples</div>
+<div>Render Time: 2.710s(16 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj9.png" class="post-image" />
+<div>
+Below are solved bugs
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj9_bug1.png" class="post-image" />
+</div>
