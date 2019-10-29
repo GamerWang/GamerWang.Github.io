@@ -1,0 +1,39 @@
+---
+layout: post
+permalink: /portfolio/Raytracing/prj8.html
+date: 2019-10-28
+author: XW
+catalog: true
+tags:
+  - Graphics
+  - Raytracing
+---
+
+<div>System Type: 64-bit OS, x64-based processor</div>
+<div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
+<div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
+<div>Bounce Count: 5</div>
+<div>Adaptive Jittered Sampling & Ray differential - min4, max 64 samples, threshold 0.01</div>
+<div>Render Time: 15.781s(16 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj8.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj8C.png" class="post-image" />
+<div>
+<div>Adaptive Jittered Sampling - min4, max 64 samples, threshold 0.01</div>
+<div>Render Time: 5.138s(16 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj8_noRaydiff.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj8C_noRaydiff.png" class="post-image" />
+<div>
+<div>Adaptive Halton Sampling - min4, max 64 samples, threshold 0.01</div>
+<div>Render Time: 2.591s(16 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj8_halton.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj8C_halton.png" class="post-image" />
+<div>
