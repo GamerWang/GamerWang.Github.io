@@ -13,8 +13,8 @@ tags:
 <div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
 <div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
 <div>Bounce Count: 5</div>
-<div>>Adaptive Halton Sampling - min16, max 128 samples, threshold 0.01</div>
-<div>>Adaptive Shadow Ray - min8, max 32</div>
+<div>Adaptive Halton Sampling - min16, max 128 samples, threshold 0.01</div>
+<div>Adaptive Shadow Ray - min8, max 32</div>
 <div>Render Time: 33.064s(24 thread using OpenMP)</div>
 <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj10.png" class="post-image" />
