@@ -61,13 +61,13 @@ tags:
 <div>
 <div>
     <div>Cosine, multiplied by Pi</div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj11_Cosine_byPi.png" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_cosine_byPi.png" class="post-image" />
 <div>
 <div>
     <div>Uniform, multiplied by geometry term</div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj11_uniform_withgeo.png" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_uniform_geo.png" class="post-image" />
 <div>
 <div>
     <div>Cosine, multiplied by geometry term</div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj11_cosine_withgeo.png" class="post-image" />
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_cosine_geo.png" class="post-image" />
 <div>
