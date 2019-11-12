@@ -1,0 +1,56 @@
+---
+layout: post
+permalink: /portfolio/Raytracing/prj10.html
+date: 2019-11-03
+author: XW
+catalog: true
+tags:
+  - Graphics
+  - Raytracing
+---
+
+<div>System Type: 64-bit OS, x64-based processor</div>
+<div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
+<div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
+<div>Bounce Count: 3</div>
+<div>Adaptive Halton Sampling - min8, max 32 samples, threshold 0.15</div>
+<div>Adaptive Shadow Ray - min4, max 16</div>
+<div>GI Sample - 16</div>
+<div>Cornell Box</div>
+<div>Uniform Sampling</div>
+<div>Render Time: 7.9315s(24 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_uniform.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11C_uniform.png" class="post-image" />
+<div>
+<div>Cosine Weighted Sampling</div>
+<div>Render Time: 8.042s(24 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_cosine.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11C_cosine.png" class="post-image" />
+<div>
+<div>Skylight Teapot</div>
+<div>Uniform Sampling</div>
+<div>Render Time: 6.543s(24 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test11_uniform.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test11C_uniform.png" class="post-image" />
+<div>
+<div>Cosine Weighted Sampling</div>
+<div>Render Time: 5.891s(24 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test11_cosine.png" class="post-image" />
+<div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/test11C_cosine.png" class="post-image" />
+<div>
+<div>Bloopers</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_bug1.png" class="post-image" />
+<div>
