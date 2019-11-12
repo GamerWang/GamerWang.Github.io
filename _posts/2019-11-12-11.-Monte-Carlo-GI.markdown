@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /portfolio/Raytracing/prj11.html
-date: 2019-11-03
+date: 2019-11-12
 author: XW
 catalog: true
 tags:
@@ -52,5 +52,22 @@ tags:
 <div>
 <div>Bloopers</div>
 <div>
+    <div>did not multiply diffuse color</div>
     <img src="{{site.url}}/portfolio/Raytracing/prj11_bug1.png" class="post-image" />
+<div>
+<div>
+    <div>Uniform, multiplied by 2 Pi</div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_uniform_by2Pi.png" class="post-image" />
+<div>
+<div>
+    <div>Cosine, multiplied by Pi</div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_Cosine_byPi.png" class="post-image" />
+<div>
+<div>
+    <div>Uniform, multiplied by geometry term</div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_uniform_withgeo.png" class="post-image" />
+<div>
+<div>
+    <div>Cosine, multiplied by geometry term</div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj11_cosine_withgeo.png" class="post-image" />
 <div>
