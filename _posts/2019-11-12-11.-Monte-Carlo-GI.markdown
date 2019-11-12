@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /portfolio/Raytracing/prj10.html
+permalink: /portfolio/Raytracing/prj11.html
 date: 2019-11-03
 author: XW
 catalog: true
