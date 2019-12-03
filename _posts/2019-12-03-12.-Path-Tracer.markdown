@@ -1,0 +1,21 @@
+---
+layout: post
+permalink: /portfolio/Raytracing/prj12.html
+date: 2019-12-03
+author: XW
+catalog: true
+tags:
+  - Graphics
+  - Raytracing
+---
+
+<div>System Type: 64-bit OS, x64-based processor</div>
+<div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
+<div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
+<div>GI Bounce: 3</div>
+<div>Sample per pixel Sample - 256</div>
+<div>Cornell Box</div>
+<div>Render Time: 165.4s(24 thread using OpenMP)</div>
+<div>
+    <img src="{{site.url}}/portfolio/Raytracing/prj12.png" class="post-image" />
+<div>
