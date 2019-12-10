@@ -9,7 +9,8 @@ tags:
   - Raytracing
 ---
 
-<!-- <div>System Type: 64-bit OS, x64-based processor</div>
+<script type="text/javascript" src="http://www.cemyuksel.com/scripts/fsimage.js"></script>
+<div>System Type: 64-bit OS, x64-based processor</div>
 <div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
 <div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
 <div>Image resolution: 960*640</div>
@@ -17,8 +18,6 @@ tags:
 <div>Sample per pixel Sample - 1024</div>
 <div>Render Time: 0:12:21(24 thread using OpenMP)</div>
 <div>Rendered using path tracing only</div> -->
-<!-- <div>
-    <img src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png" class="post-image" />
-<div> -->
-<script type="text/javascript" src="http://www.cemyuksel.com/scripts/fsimage.js"></script>
-<img rel="fsimage" src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png"/>
+<div>
+    <img rel="fsimage" src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png"/>
+<div>
