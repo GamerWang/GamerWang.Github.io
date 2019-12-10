@@ -20,4 +20,5 @@ tags:
 <!-- <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png" class="post-image" />
 <div> -->
-<img rel="fsimage" src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png" class="post-image" />
+<script type="text/javascript" src="http://www.cemyuksel.com/scripts/fsimage.js"></script>
+<img rel="fsimage" src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png"/>
