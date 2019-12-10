@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 permalink: /portfolio/Raytracing/prj14.html
 date: 2019-12-10
 author: XW
@@ -9,14 +9,16 @@ tags:
   - Raytracing
 ---
 
-<div>System Type: 64-bit OS, x64-based processor</div>
+<!-- <div>System Type: 64-bit OS, x64-based processor</div>
 <div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
 <div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
 <div>Image resolution: 960*640</div>
 <div>GI Bounce: 5</div>
 <div>Sample per pixel Sample - 1024</div>
 <div>Render Time: 0:12:21(24 thread using OpenMP)</div>
-<div>Rendered using path tracing only</div>
-<div>
+<div>Rendered using path tracing only</div> -->
+<!-- <div>
     <img src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png" class="post-image" />
-<div>
+<div> -->
+<script type="text/javascript" src="http://www.cemyuksel.com/scripts/fsimage.js"></script>
+<img rel="fsimage" src="{{site.url}}/portfolio/Raytracing/prj14_ver1024.png" class="post-image" />
