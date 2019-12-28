@@ -1,0 +1,23 @@
+---
+# layout: post
+permalink: /portfolio/Raytracing/prj13.html
+date: 2019-12-28
+author: XW
+catalog: true
+tags:
+  - Graphics
+  - Raytracing
+---
+
+<div>System Type: 64-bit OS, x64-based processor</div>
+<div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
+<div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
+<div>Bounce: 5</div>
+<div>Sample per pixel Sample - 8</div>
+<div>Render Time: 17.824s(24 thread using OpenMP)</div>
+<div>Photon Map for Direct & Indirect illumination</div>
+<div>Photon Count: 1M</div>
+<div>Caustics Photon Count: 100k</div>
+<div>
+    <img rel="fsimage" src="{{site.url}}/portfolio/Raytracing/prj13.png"/>
+<div>

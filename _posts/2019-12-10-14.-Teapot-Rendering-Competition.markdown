@@ -9,7 +9,6 @@ tags:
   - Raytracing
 ---
 
-<script type="text/javascript" src="http://www.cemyuksel.com/scripts/fsimage.js"></script>
 <div>System Type: 64-bit OS, x64-based processor</div>
 <div>Installed RAM: 16.0 GB(15.9 GB usable)</div>
 <div>Processor: AMD Ryzen 9 3900X 12-Core Processor</div>
